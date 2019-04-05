@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "Jamie Shepherd"
 theme = "hugo-paper"
 enableEmoji = true
+googleAnalytics = "UA-52110087-5"
