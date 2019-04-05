@@ -1,0 +1,5 @@
+baseURL = "https://jamie.sh/"
+languageCode = "en-us"
+title = "Jamie Shepherd"
+theme = "hugo-paper"
+enableEmoji = true
